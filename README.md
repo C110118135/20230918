@@ -5,4 +5,4 @@
 ##### 20230918
 ###### 20230918
 
-![NKUST](nkust.png"nkust.png")
+![NKUST](nkust.png"nkust")
